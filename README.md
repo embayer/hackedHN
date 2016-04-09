@@ -1,6 +1,11 @@
 # hackedHN
 
-[https://tampermonkey.net/](tampermonkey) user script for [https://news.ycombinator.com/](hackernews).
+[tampermonkey](https://tampermonkey.net/) user script for [hackernews](https://news.ycombinator.com/).
+
+## screenshot
+
+![hackedHN](https://raw.githubusercontent.com/embayer/hackedHN/master/img/modified.png)
+
 
 ## features:
 
