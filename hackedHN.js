@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        hackedHN.js
-// @namespace   https://gist.github.com/embayer/327c1eed1987f929be9f/edit
+// @namespace   https://github.com/embayer/hackedHN
 // @version     1.0
 // @description big font sizes, full width and alternate mark inversion rows, colorful points, search-field on top
 // @match      https://news.ycombinator.com/
