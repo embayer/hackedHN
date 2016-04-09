@@ -2,9 +2,13 @@
 
 [tampermonkey](https://tampermonkey.net/) user script for [hackernews](https://news.ycombinator.com/).
 
-## screenshot
+## modified hackernews
 
 ![hackedHN](https://raw.githubusercontent.com/embayer/hackedHN/master/img/modified.png)
+
+## regular
+
+![hackernews](https://raw.githubusercontent.com/embayer/hackedHN/master/img/unmodified.png)
 
 
 ## features:
