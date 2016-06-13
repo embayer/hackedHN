@@ -3,8 +3,14 @@
 // @namespace   https://github.com/embayer/hackedHN
 // @version     1.0
 // @description big font sizes, full width and alternate mark inversion rows, colorful points, search-field on top
-// @match      https://news.ycombinator.com/
-// @match      https://news.ycombinator.com/news
+// @match https://news.ycombinator.com/
+// @match https://news.ycombinator.com/news
+// @match https://news.ycombinator.com/newest
+// @match https://news.ycombinator.com/newcomments
+// @match https://news.ycombinator.com/show
+// @match https://news.ycombinator.com/ask
+// @match https://news.ycombinator.com/jobs
+// @match http://www.datatau.com/
 // @copyright  2015, embayer
 // ==/UserScript==
 
